@@ -1,0 +1,74 @@
+.line1 {
+    background-color: darkgray;
+height: 150px;
+width: 100%;
+box-sizing: border-box;
+padding-top: 15px;
+
+}
+
+.box-line1 {
+
+        background-color: #3399FF;
+
+    height: 120px;
+    width: 120px;
+    margin-left: 80px;
+    
+  
+
+}
+
+.line2 {
+    background-color: white;
+    height: 350px;
+    width: 75%;
+    margin: auto;
+
+    
+
+    
+    }
+
+    .line3 {
+        background-color: #3399FF;
+
+        height: 150px;
+        width: 100%;
+        
+        }
+        
+        .line4 {
+            background-color: #33FFCA;
+    
+            height: 150px;
+            width: 100%;
+            
+            }
+
+            .line5 {
+                background-color: #33FF74;
+        
+                height: 150px;
+                width: 100%;
+                
+                }
+        
+    
+                .line6 {
+                    background-color: #FFFF33;
+            
+                    height: 150px;
+                    width: 100%;
+                    
+                    }
+
+                    p {
+
+font-size: 30px;
+
+
+
+
+                    }
+
